@@ -1,0 +1,8 @@
+some-config:
+  percentage: 50 # 50% of the time this flag will be true
+  true: true
+  false: false
+  default: false
+  variations:
+  defaultRule:
+  rule: ""
